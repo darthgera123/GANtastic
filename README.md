@@ -1,7 +1,7 @@
 # GANtastic
-This repo contains my experiments with different types of GANs and different types of losses that are used. It is an attempt to fully understand and appreciate this concept which the father of CNNs, **Yann Le Cunn** has called as the coolest idea in deep learning in the last 20 years.  
+This repo contains my experiments with different types of GANs and different types of losses that are used. It is an attempt to fully understand and appreciate this concept which the father of CNNs, **Yann Le Cunn** has called it as the coolest idea in deep learning in the last 20 years.  
 
-I had always been fascinated by GANs in their ability to create images which are so lifelike and real be it new faces, new types of cars or new types of interior designing. However, in this quarantine period(COVID-19), where everybody is brushing up their art skills, I thought to give it a go. So being the artist I am, I decided it was easier for me to sit through frustrating hours of training GANs rather than my hands to generate art xD.  
+I have always been fascinated by GANs and their ability to create images which are so lifelike and real be it new faces, new types of cars or new types of interior designing. However, in this quarantine period(COVID-19), where everybody is brushing up their art skills, I thought to give mine a go. So being the artist I am, I decided it was easier for me to sit through frustrating hours of training GANs rather than my hands to generate art xD.  
 
 Apart from that, there are several papers and blogs which I found useful. 
 
