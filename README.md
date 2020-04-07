@@ -5,6 +5,12 @@ I have always been fascinated by GANs and their ability to create images which a
 
 Apart from that, there are several papers and blogs which I found useful. 
 
+## Implementations
+I have implemented the following architectures - 
++ SGAN - Standard Gan
++ DCGAN - Deep Convolution GAN
++ RaLSGAN - Relativistic Average on Least Square GAN
+
 ## Resources
 + [Original GAN paper](https://arxiv.org/pdf/1406.2661.pdf)
 + [DCGAN or Deep Convolutional GAN](https://arxiv.org/pdf/1511.06434.pdf) 
@@ -14,3 +20,8 @@ Apart from that, there are several papers and blogs which I found useful.
 + [Tips and Tricks while training](https://github.com/soumith/ganhacks)
 + [Deep Mind slides](http://www.gatsby.ucl.ac.uk/~balaji/Understanding-GANs.pdf)
 + [Advanced Tricks](https://towardsdatascience.com/10-lessons-i-learned-training-generative-adversarial-networks-gans-for-a-year-c9071159628)
++ [RaLS Resource](https://www.kaggle.com/c/generative-dog-images/discussion/99485)
++ [GAN awesome applications repo](https://github.com/nashory/gans-awesome-applications)
++ [DCGAN for art](https://www.ritchievink.com/blog/2018/07/16/generative-adversarial-networks-in-pytorch-the-distribution-of-art/)
++ [GANs implemented Pytorch](https://github.com/ozanciga/gans-with-pytorch)
++ [GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
