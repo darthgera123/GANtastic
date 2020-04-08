@@ -25,3 +25,7 @@ I have implemented the following architectures -
 + [DCGAN for art](https://www.ritchievink.com/blog/2018/07/16/generative-adversarial-networks-in-pytorch-the-distribution-of-art/)
 + [GANs implemented Pytorch](https://github.com/ozanciga/gans-with-pytorch)
 + [GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
++ [Interesting GAN application 2019](https://heartbeat.fritz.ai/artificial-art-how-gans-are-making-machines-creative-b99105627198)
+
+## Datasets
++ [Dog Dataset](https://www.kaggle.com/c/generative-dog-images/data)
