@@ -1,5 +1,5 @@
 # GANtastic
-![](https://github.com/darthgera123/GANtastic/blob/master/results/SGAN_architecture.png)
+![](https://github.com/darthgera123/GANtastic/blob/master/results/SGAN_architecture.png)  
 This repo contains my experiments with different types of GANs and different types of losses that are used. It is an attempt to fully understand and appreciate this concept which the father of CNNs, **Yann Le Cunn** has called it as the coolest idea in deep learning in the last 20 years.  
 
 I have always been fascinated by GANs and their ability to create images which are so lifelike and real be it new faces, new types of cars or new types of interior designing. However, in this quarantine period(COVID-19), where everybody is brushing up their art skills, I thought to give mine a go. So being the artist I am, I decided it was easier for me to sit through frustrating hours of training GANs rather than my hands to generate art xD.  
@@ -13,10 +13,15 @@ I have implemented the following architectures -
 + RaLSGAN - Relativistic Average on Least Square GAN
 
 ## Results
-+ SGAN on MNIST
-![](https://github.com/darthgera123/GANtastic/blob/master/results/SGAN_result.png)
-+ RaLSGAN on Dogs Dataset
-![](https://github.com/darthgera123/GANtastic/blob/master/results/Improved_RaLSGAN.png)
+**SGAN on MNIST**
+<p >
+  <img src="https://github.com/darthgera123/GANtastic/blob/master/results/SGAN_result.png" width="600" height="400" />
+</p>
+**RaLSGAN on Dogs Dataset**
+<p >
+  <img src="https://github.com/darthgera123/GANtastic/blob/master/results/Improved_RaLSGAN.png" width="600" height="600" />
+</p>
+
 ## Resources
 + [Original GAN paper](https://arxiv.org/pdf/1406.2661.pdf)
 + [DCGAN or Deep Convolutional GAN](https://arxiv.org/pdf/1511.06434.pdf) 
