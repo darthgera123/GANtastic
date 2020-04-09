@@ -11,6 +11,11 @@ I have implemented the following architectures -
 + DCGAN - Deep Convolution GAN
 + RaLSGAN - Relativistic Average on Least Square GAN
 
+## Results
++ SGAN on MNIST
+![](https://github.com/darthgera123/GANtastic/blob/master/results/SGAN_result.png)
++ RaLSGAN on Dogs Dataset
+![](https://github.com/darthgera123/GANtastic/blob/master/results/Improved_RaLSGAN.png)
 ## Resources
 + [Original GAN paper](https://arxiv.org/pdf/1406.2661.pdf)
 + [DCGAN or Deep Convolutional GAN](https://arxiv.org/pdf/1511.06434.pdf) 
