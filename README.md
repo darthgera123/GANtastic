@@ -29,3 +29,6 @@ I have implemented the following architectures -
 
 ## Datasets
 + [Dog Dataset](https://www.kaggle.com/c/generative-dog-images/data)
+
+## Notes
++ The dog dataset has images of the size 64x64x3 hence they may be difficult to look at.
