@@ -16,7 +16,8 @@ I have implemented the following architectures -
 **SGAN on MNIST**
 <p >
   <img src="https://github.com/darthgera123/GANtastic/blob/master/results/SGAN_result.png" width="600" height="400" />
-</p>
+</p>  
+
 **RaLSGAN on Dogs Dataset**
 <p >
   <img src="https://github.com/darthgera123/GANtastic/blob/master/results/Improved_RaLSGAN.png" width="600" height="600" />
