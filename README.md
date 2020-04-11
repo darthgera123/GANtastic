@@ -11,6 +11,7 @@ I have implemented the following architectures -
 + SGAN - Standard Gan
 + DCGAN - Deep Convolution GAN
 + RaLSGAN - Relativistic Average on Least Square GAN
++ Cycle Gan with Least Square error.
 
 ## Results
 **SGAN on MNIST**
@@ -22,6 +23,9 @@ I have implemented the following architectures -
 <p >
   <img src="https://github.com/darthgera123/GANtastic/blob/master/results/Improved_RaLSGAN.png" width="600" height="600" />
 </p>
+
+**Mode Collapse on Dogs Dataset**
+(although i shouldnt be showing this off)
 
 ## Resources
 + [Original GAN paper](https://arxiv.org/pdf/1406.2661.pdf)
