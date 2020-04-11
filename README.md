@@ -27,6 +27,10 @@ I have implemented the following architectures -
 **Mode Collapse on Dogs Dataset**
 (although i shouldnt be showing this off)
 
+<p >
+  <img src="https://github.com/darthgera123/GANtastic/blob/master/results/mode_collapse.png" width="600" height="600" />
+</p>
+
 ## Resources
 + [Original GAN paper](https://arxiv.org/pdf/1406.2661.pdf)
 + [DCGAN or Deep Convolutional GAN](https://arxiv.org/pdf/1511.06434.pdf) 
