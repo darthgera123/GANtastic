@@ -14,6 +14,19 @@ I have implemented the following architectures -
 + Cycle Gan with Least Square error.
 
 ## Results
+**Cycle GAN Photo to Paint **
+<p >
+  <img src="https://github.com/darthgera123/GANtastic/blob/master/results/b2a_199_13.png" width="300" height="256" />
+</p>
+<p >
+  <img src="https://github.com/darthgera123/GANtastic/blob/master/results/b2a_199_15.png" width="300" height="256" />
+</p>
+<p >
+  <img src="https://github.com/darthgera123/GANtastic/blob/master/results/b2a_199_16.png" width="300" height="256" />
+</p>
+<p >
+  <img src="https://github.com/darthgera123/GANtastic/blob/master/results/b2a_199_17.png" width="300" height="256" />
+</p>
 **SGAN on MNIST**
 <p >
   <img src="https://github.com/darthgera123/GANtastic/blob/master/results/SGAN_result.png" width="600" height="400" />
